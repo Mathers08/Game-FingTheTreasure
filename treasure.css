@@ -1,0 +1,16 @@
+.heading, #distance {
+    text-align: center;
+    font-family: cursive;
+    color: rgb(28, 22, 110);
+    font-size: 30px;
+}
+
+#map {
+    width: 700px;
+    height: 700px;
+    cursor: pointer;
+}
+
+.text {
+    text-align: center;
+}
